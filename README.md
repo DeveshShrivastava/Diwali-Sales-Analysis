@@ -55,3 +55,9 @@ This project performs a detailed **Exploratory Data Analysis (EDA)** on retail s
 - Converted columns to appropriate data types
 - Renamed columns for consistency
 - Filtered and grouped data for segment-based insights
+
+
+## Author
+
+Devesh Shrivastava 
+[devesh.shrivastava.39@gmail.com]
